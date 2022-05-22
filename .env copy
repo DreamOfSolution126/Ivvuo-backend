@@ -1,0 +1,5 @@
+PORT=3001
+USUARIO_BD=desarrollo
+CONTRASENA_BD=xWF0fzypQShHKnND
+BDD=ivvuo-dev
+FRONTEND=http://localhost:4200
